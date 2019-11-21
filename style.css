@@ -1,5 +1,5 @@
 body { background-color: #eaeabc; padding: 0.5in; font-family: Arial, sans-serif; }
-header { position: fixed; top: 0; left: 0; width: 100%; height: 0.75in; background-color: #900; color: #fff; padding: 0 0.5in; }
+header { position: fixed; top: 0; left: 0; width: 100%; height: 0.75in; background-color: #900; color: #fff; padding: 0 0.5in; overflow: hidden; }
   header h1 { font-size: 24pt; float: left; }
   header h2 { font-size: 18pt; float: right; padding-right: 1.5in; }
 main { max-width: 6in; margin: 1.5in auto 2.5in auto; }
